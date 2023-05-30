@@ -23,7 +23,6 @@ const Hero = (props: HeroProps): JSX.Element => (
         field={props.fields.herotext}
         tag="section"
         className="herotext"
-        editable={false}
         data-sample="other-attributes-pass-through"
       />
     </React.Fragment>
