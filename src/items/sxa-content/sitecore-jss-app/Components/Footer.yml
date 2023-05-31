@@ -1,20 +1,17 @@
 ﻿---
-ID: "25080f20-ab2e-5a34-9e49-963b3c0bbc5d"
-Parent: "02a31333-9ee3-5787-86ba-ae02399cebeb"
-Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
-Path: "/sitecore/layout/Placeholder Settings/Project/sitecore-jss-app/jss-hero"
+ID: "f3a0064c-fa6f-4f15-9086-d705e999598b"
+Parent: "1145e1f4-fda8-5b3b-b1a3-31ee82e9c66c"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: "/sitecore/content/HeadlessTenant/sitecore-jss-app/Components/Footer"
 SharedFields:
-- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
-  Hint: Placeholder Key
-  Value: "jss-hero"
-- ID: "9c6106ea-7a5a-48e2-8cad-f0f693b1e2d4"
-  Hint: __Read Only
-  Value: 
-- ID: "e391b526-d0c5-439d-803e-17512eae6222"
-  Hint: Allowed Controls
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/box_into.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
   Value: |
-    {13B4ABE0-89B6-56C0-A44E-F410BFE3CB7C}
-    {580D9B3B-DC7F-4434-AF4D-A206F737CD1A}
+    {A87A00B1-E6DB-45AB-8B54-636FEC3B5523}
+    {5AA49CAF-B6B8-425C-BB5A-1A6219225186}
 Languages:
 - Language: en
   Versions:
@@ -33,11 +30,11 @@ Languages:
         sitecore\JssImport
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "08ac449e-5882-4fec-92c5-3baa5538e2cf"
+      Value: "2fad2922-b76f-4b87-9f34-4d0260676531"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\rohith.monigari@tadigital.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230525T113957Z
+      Value: 20230525T112304Z

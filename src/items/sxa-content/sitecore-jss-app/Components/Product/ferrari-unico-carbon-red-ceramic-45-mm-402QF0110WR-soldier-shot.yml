@@ -1,0 +1,54 @@
+﻿---
+ID: "5f18031a-0bd5-4d35-b7b5-5203473b2b2b"
+Parent: "a4294321-94bd-45b6-a931-fd644ed203c1"
+Template: "3dbb0dd2-549f-5e00-b105-ff4fdce6e6d0"
+Path: "/sitecore/content/HeadlessTenant/sitecore-jss-app/Components/Product/ferrari-unico-carbon-red-ceramic-45-mm-402QF0110WR-soldier-shot"
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230524T090928Z
+    - ID: "3352278f-70c1-586c-8411-2a12809a933c"
+      Hint: price
+      Value: 289464
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{AF32C98B-C828-42AF-A649-74C1DE3303FB}"
+    - ID: "4dd7e032-7b3d-510a-bf9b-1e913cf7b937"
+      Hint: model
+      Value: Big Bang
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohith.monigari@tadigital.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohith.monigari@tadigital.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f642e8d6-d629-42e6-a7c2-60741faea0a8"
+    - ID: "a6ba25dc-6649-5c93-ad3f-34d6d5ee3c7f"
+      Hint: title
+      Value: Ferrari Unico Carbon
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohith.monigari@tadigital.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230525T114906Z
+    - ID: "e6874a81-2d73-5b36-94b2-fcf70add4adc"
+      Hint: image
+      Value: |
+        <image mediaid="{E04A798B-A4EA-483D-9393-73EDA75BF470}" ></image>

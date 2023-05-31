@@ -5,6 +5,10 @@ Template: "f5a3ee34-8b50-4ae0-b3e8-38d702a6e5f3"
 Path: "/sitecore/content/HeadlessTenant/sitecore-jss-app/home"
 BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
 SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{C1AF02D3-AB95-4A71-8C5C-1481F51C0954}" />
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{F558BEC9-C602-4D7A-B9A1-D0411C946EA4}"
@@ -36,11 +40,26 @@ Languages:
               s:ph="jss-hero" />
             <r
               uid="{A1B16C04-54D9-405E-A738-38778A88C317}"
-              p:after="*[1=2]"
+              p:after="r[@uid='{F8185ED0-C672-4142-B4E1-4A1AEA717952}']"
               s:ds="{BFCF1CDE-6F53-48CA-9CC1-98460A46C5DB}"
               s:id="{58D44F33-41DA-54D1-A8FE-7671DDBCFBBB}"
               s:par="GridParameters={7465D855-992E-4DC2-9855-A03250DFA74B}&amp;FieldNames&amp;Styles&amp;CacheClearingBehavior=Clear on publish"
               s:ph="jss-nav" />
+            <r
+              uid="{8AADE018-C660-4A0B-9ECC-5BF3DDE6FDAE}"
+              p:after="r[@uid='{A1B16C04-54D9-405E-A738-38778A88C317}']"
+              s:ds="{7615DCAB-C6D9-4D38-B0EB-BB965244173F}"
+              s:id="{DF105691-06C7-521D-AA54-3406E9C433C4}"
+              s:par="GridParameters&amp;FieldNames&amp;Styles&amp;CSSStyles"
+              s:ph="jss-main"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{4C2BBA11-6571-469C-AEC1-3889A00A945D}"
+              p:after="*[1=2]"
+              s:ds="{17933C6E-0D07-46AA-961C-067A53F8E33A}"
+              s:id="{25F16220-436B-4B41-BE50-DE9BBD5B5494}"
+              s:par="CacheClearingBehavior=Clear on publish&amp;CSSStyles"
+              s:ph="jss-main" />
           </d>
         </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
@@ -59,11 +78,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d7e4200b-3f0b-4630-a9a1-df4a2a985fdb"
+      Value: "2e041f3e-74d9-4988-9de6-a5a8f759c518"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\Admin
+        sitecore\rohith.monigari@tadigital.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230522T090543Z
+      Value: 20230524T121010Z

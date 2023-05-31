@@ -1,0 +1,68 @@
+﻿---
+ID: "fed5fe8d-a927-43d8-9f6b-0641be27a20b"
+Parent: "a6915c8f-62a8-4cc6-b117-154027dbd6a8"
+Template: "f5a3ee34-8b50-4ae0-b3e8-38d702a6e5f3"
+Path: "/sitecore/content/HeadlessTenant/sitecore-jss-app/home/Ferrari Unico Carbon"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{F6A1B50C-FE15-489D-9AA7-978CD6A45E81}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{51F71DF2-0198-4B76-8DA6-5A89CBB73A91}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "00a238e8-77ff-40fb-8264-d6591bd4df8b"
+      Hint: Title
+      Value: Ferrari Unico Carbon
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+            s:l="{7ACDB359-384C-5804-80A4-FA650B78F0FE}">
+            <r
+              uid="{7BE46024-BC7E-49B9-8013-A4F93DEFA247}"
+              s:ds="{5F18031A-0BD5-4D35-B7B5-5203473B2B2B}"
+              s:id="{580D9B3B-DC7F-4434-AF4D-A206F737CD1A}"
+              s:par="CSSStyles"
+              s:ph="jss-hero"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230524T122238Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Watches
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\rohith.monigari@tadigital.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\rohith.monigari@tadigital.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "378a9b70-7126-47cb-a6f9-72359329f189"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\rohith.monigari@tadigital.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230525T114906Z
+    - ID: "db23a39e-f3ee-466d-9cdd-f5136b3fa347"
+      Hint: Content
+      Value: 

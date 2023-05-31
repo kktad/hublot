@@ -1,20 +1,12 @@
 ﻿---
-ID: "25080f20-ab2e-5a34-9e49-963b3c0bbc5d"
-Parent: "02a31333-9ee3-5787-86ba-ae02399cebeb"
-Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
-Path: "/sitecore/layout/Placeholder Settings/Project/sitecore-jss-app/jss-hero"
+ID: "d7cc405f-8367-4e6d-8268-9b1b1779ef31"
+Parent: "5d7531d4-e5e9-4344-991d-164265b0be41"
+Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
+Path: "/sitecore/content/HeadlessTenant/sitecore-jss-app/Presentation/Placeholder Settings/Partial Design/Footer"
 SharedFields:
 - ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
   Hint: Placeholder Key
-  Value: "jss-hero"
-- ID: "9c6106ea-7a5a-48e2-8cad-f0f693b1e2d4"
-  Hint: __Read Only
-  Value: 
-- ID: "e391b526-d0c5-439d-803e-17512eae6222"
-  Hint: Allowed Controls
-  Value: |
-    {13B4ABE0-89B6-56C0-A44E-F410BFE3CB7C}
-    {580D9B3B-DC7F-4434-AF4D-A206F737CD1A}
+  Value: "sxa-footer"
 Languages:
 - Language: en
   Versions:
@@ -22,22 +14,22 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20230522T073653Z
+      Value: 20230525T112037Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
-        sitecore\JssImport
+        sitecore\rohith.monigari@tadigital.com
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
-        sitecore\JssImport
+        sitecore\rohith.monigari@tadigital.com
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "08ac449e-5882-4fec-92c5-3baa5538e2cf"
+      Value: "b4634a47-fbbc-4a96-8b09-9b6aacaaf255"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\rohith.monigari@tadigital.com
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230525T113957Z
+      Value: 20230525T112037Z
